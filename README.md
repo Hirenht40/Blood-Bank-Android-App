@@ -1,4 +1,4 @@
-# Blodd-Bank-Android-App
+# Blood-Bank-Android-App
 This is the Blood Bank android application. The idea of this app is to be able to find donors in our city with a specific blood group and also share our request for urgent blood in the community of our city.  
 # Working 
 This is a simple PHP web server using a free hosting provider: http://000webhost.com There we have our MySQL database and some PHP scripts that are our APIs. For android the languages we are using are Java and XML.  
